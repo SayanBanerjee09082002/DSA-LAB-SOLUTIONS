@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "string.h": "c",
+        "stdio.h": "c",
+        "element.h": "c",
+        "linked_list.h": "c",
+        "insertion_sort.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
