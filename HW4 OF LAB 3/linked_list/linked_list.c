@@ -1,5 +1,6 @@
 #include <stdlib.h>
-#include "../element/element.h"
+#include <stdio.h>
+#include "../process/process.h"
 #include "linked_list.h"
 
 LIST createNewList()
@@ -9,7 +10,7 @@ LIST createNewList()
     return newList;
 }
 
-NODE createNewNode(Element data)
+NODE createNewNode(Process data)
 {
     NODE newNode = malloc(sizeof(struct node));
     newNode->data = data;

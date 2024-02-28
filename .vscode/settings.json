@@ -6,7 +6,10 @@
         "element.h": "c",
         "linked_list.h": "c",
         "insertion_sort.h": "c",
-        "type_traits": "c"
+        "type_traits": "c",
+        "process.h": "c",
+        "queue.h": "c",
+        "stdbool.h": "c"
     },
     "C_Cpp.errorSquiggles": "enabled"
 }
